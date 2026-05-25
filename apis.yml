@@ -1,0 +1,78 @@
+aid: augmenta
+name: Augmenta
+description: >-
+  Augmenta is a Toronto-based generative AI company building the Augmenta
+  Construction Platform (ACP), a Spatial AI system that automates building
+  design — starting with electrical raceway routing and expanding into
+  mechanical and plumbing (MEP). ACP ingests Revit models, accepts
+  conduit run schedules, fly/no-fly zones, and project specifications, then
+  generates clash-free, constructable 3D conduit routes in the cloud and
+  exports them back into Revit as system conduit ready for detailing and
+  prefabrication. The platform combines computational geometry, advanced
+  optimization, and machine learning to handle data-center, hospital, and
+  school-scale electrical builds, and is marketed to VDC teams and electrical
+  contractors as a way to cut BIM time by roughly two-thirds. Augmenta was
+  founded by veterans of generative design for advanced manufacturing, won
+  EC&M 2026 Product of the Year, was named to the 2026 Global Cleantech 100,
+  and signed a five-year strategic partnership with E-J Electric Installation
+  Co. The product is delivered as a SOC2-certified Revit add-in with a cloud
+  back-end; there is no public REST API, SDK, or open-source release.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Construction
+  - AEC
+  - MEP
+  - Electrical Design
+  - Building Design
+  - BIM
+  - Revit
+  - Spatial AI
+  - Generative AI
+  - Foundation Models
+  - Generative Design
+  - Computational Geometry
+  - Optimization
+  - Data Centers
+  - Prefabrication
+url: https://raw.githubusercontent.com/api-evangelist/augmenta/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.augmenta.ai
+  - type: Product
+    url: https://www.augmenta.ai/electrical
+  - type: Approach
+    url: https://www.augmenta.ai/our-approach
+  - type: Thesis
+    url: https://www.augmenta.ai/thesis
+  - type: Documentation
+    url: https://docs.augmenta.ai
+  - type: Resources
+    url: https://www.augmenta.ai/resources
+  - type: Careers
+    url: https://www.augmenta.ai/careers
+  - type: Contact
+    url: https://www.augmenta.ai/contact
+  - type: GitHub
+    url: https://github.com/augmenta-ai
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/augmenta-ai/
+  - type: Twitter
+    url: https://x.com/AugmentaAI
+  - type: YouTube
+    url: https://www.youtube.com/@AugmentaAI
+  - type: Email
+    url: mailto:info@augmenta.ai
+  - type: Sales
+    url: mailto:sales@augmenta.ai
+  - type: Support
+    url: mailto:support@augmenta.ai
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
