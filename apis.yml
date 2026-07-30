@@ -18,9 +18,20 @@ description: >-
   Co. The product is delivered as a SOC2-certified Revit add-in with a cloud
   back-end; there is no public REST API, SDK, or open-source release.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Provider
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/augmenta.png
 tags:
   - Construction
   - AEC
