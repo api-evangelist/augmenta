@@ -18,6 +18,17 @@ description: >-
   Co. The product is delivered as a SOC2-certified Revit add-in with a cloud
   back-end; there is no public REST API, SDK, or open-source release.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
