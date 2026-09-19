@@ -57,6 +57,22 @@ tags:
   - Generative Design
   - Computational Geometry
   - Optimization
+  - Data-Center
+  - Prefabrication
+tags_raw:
+  - Construction
+  - AEC
+  - MEP
+  - Electrical Design
+  - Building Design
+  - BIM
+  - Revit
+  - Spatial AI
+  - Generative AI
+  - Foundation Models
+  - Generative Design
+  - Computational Geometry
+  - Optimization
   - Data Centers
   - Prefabrication
 url: https://raw.githubusercontent.com/api-evangelist/augmenta/refs/heads/main/apis.yml
