@@ -57,7 +57,7 @@ tags:
   - Generative Design
   - Computational Geometry
   - Optimization
-  - Data-Center
+  - Data Center
   - Prefabrication
 tags_raw:
   - Construction
@@ -75,6 +75,7 @@ tags_raw:
   - Optimization
   - Data Centers
   - Prefabrication
+  - Data-Center
 url: https://raw.githubusercontent.com/api-evangelist/augmenta/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
